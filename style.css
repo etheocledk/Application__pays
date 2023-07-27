@@ -405,4 +405,21 @@ margin-top: 15px;
     .header__container__right {
         font-size: 10px;
     }
+
+    .countrie__structure {
+        width: 267px;
+    }
+
+    .countrie__structure__image {
+        width: 267px;
+        height: 180px;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+    .countrie__structure__image img{
+        width: 100%;
+        height: 100%;
+    }
+    
 }
